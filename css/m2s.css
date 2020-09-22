@@ -23,6 +23,7 @@ section {
 
 /* Section title region. */
 #t1, #t2, #t3 {
+	border: 1px solid white;
 	padding: 5px 15px;
 	font-weight: bold;
 	float: right;
